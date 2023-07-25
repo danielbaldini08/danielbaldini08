@@ -1,16 +1,13 @@
-### Hi there 👋
+# Opa boas vindas ao meu perfil
 
-<!--
-**danielbaldini08/danielbaldini08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Meu nome é Daniel Baldini
 
-Here are some ideas to get you started:
+- Meu sonho é ser jogaor de futebol
+- E jogar no REAL MADRID
+- Gosto de cachorros
+- Torço para o Palmeiras
+- Tento ser o máximo posível legal com as pessoas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Se quiser entrar em contato comigo 📫
+
+  daniel.baldini@escola.pr.gov.br
